@@ -1,4 +1,4 @@
-# OptiliftAI
+# OptiliftAI Project
 Real-time gymm exercise efficiency 
 
 # Overview 
